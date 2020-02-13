@@ -1,0 +1,12 @@
+body{
+background-image:url('abc.jpg');
+background-repeat:repeat-y;
+background-attachment:fixed;
+}
+h1{
+color:maroon;
+margin-left:40px;
+}
+p{
+color:blue;	
+}
