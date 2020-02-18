@@ -4,9 +4,36 @@ background-repeat:repeat-y;
 background-attachment:fixed;
 }
 h1{
-color:maroon;
-margin-left:40px;
+color:white;
+margin-left:200px;
+text-transform:uppercase;
+text-shadow:2px 2px 4px black;
+
 }
-p{
-color:blue;	
+p.a{
+color:#ED8331;
+margin-left:950px;
+font-style:italic;
+font-family:serif;	
+font-size:20px;
+font-weight:bold;
+letter-spacing:2px;
+text-decoration:overline;
+text-transform:lowercase;
+text-shadow:2px 2px 4px black;
+opacity:0.5;
 }
+img{
+width:1750px;
+height:250px;
+margin-left:25px;
+box-shadow: 10px 10px white;
+
+
+
+}
+img:hover
+{
+border:3px solid white;
+}
+
